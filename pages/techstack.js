@@ -32,11 +32,10 @@ export default function Home() {
           Get to know the tools I use for developing software 🔨
         </p>
 
-        {/* <div className={styles.grid}>
-          
-        </div> */}
         <div className={styles.grid}>
-        <h2>My Tech Stack &rarr;</h2>
+          <h2>My Tech Stack &rarr;</h2>
+        </div>
+        <div className={styles.grid}>
           <ul>
             <li>
               <h2>Languages &rarr; </h2>
