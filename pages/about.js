@@ -34,7 +34,7 @@ export default function Home() {
           <h2>Who and What I am &rarr;</h2>
         </div>
         <div className={styles.grid}>
-          <h2>
+          <p style={{fontSize:'1.5rem'}}>
             Hello, my name is Abhiraj Chatterjee. I am a final year B.Tech
             Undergrad student studying Computer Science and Engineering at KIIT
             University, Bhubaneswar. Honestly speaking, I am a very free
@@ -44,7 +44,7 @@ export default function Home() {
             Digital (mother organization of the Tata Neu Superapp). I love
             coding, poetry, singing, sketching, anime and making a lot of new
             friends 😉.
-          </h2>
+          </p>
         </div>
         <div className={styles.grid}>
           <h2>
