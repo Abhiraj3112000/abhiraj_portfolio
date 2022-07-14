@@ -1,0 +1,17 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Edu SA Beginner', cursive;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  background-color: #BCB4A9;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
