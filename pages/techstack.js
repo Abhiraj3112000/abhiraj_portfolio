@@ -39,27 +39,27 @@ export default function Home() {
           <ul>
             <li>
               <h2>Languages &rarr; </h2>
-              <h3>• C++, Java, JavaScript, TypeScript, Dart, Python</h3>
+              <p style={{fontSize:"1.3rem"}}>• C++, Java, JavaScript, TypeScript, Dart, Python</p>
             </li>
             <li>
               <h2>Web Development &rarr;</h2>
-              <h3>• React Js, Next Js, HTML, CSS, JavaScript</h3>
+              <p  style={{fontSize:"1.3rem"}}>• React Js, Next Js, HTML, CSS, JavaScript</p>
             </li>
             <li>
               <h2>Database/SAAS &rarr;</h2>
-              <h3>• Firebase, MySQL</h3>
+              <p  style={{fontSize:"1.3rem"}}>• Firebase, MySQL</p>
             </li>
             <li>
               <h2>Mobile App Development &rarr;</h2>
-              <h3>• Flutter, Java</h3>
+              <p  style={{fontSize:"1.3rem"}}>• Flutter, Java</p>
             </li>
             <li>
               <h2>Microservice/Middleware Development &rarr;</h2>
-              <h3>• Node Js, Express Js, Java Servlets, JDBC, Flask</h3>
+              <p  style={{fontSize:"1.3rem"}}>• Node Js, Express Js, Java Servlets, JDBC, Flask</p>
             </li>
             <li>
               <h2>Machine Learning &rarr;</h2>
-              <h3>• Python, Scikit Learn, Numpy, Pandas, Seaborn</h3>
+              <p  style={{fontSize:"1.3rem"}}>• Python, Scikit Learn, Numpy, Pandas, Seaborn</p>
             </li>
           </ul>
         </div>
