@@ -36,7 +36,7 @@ export default function Home() {
         <div className={styles.grid}>
           <h2>
             Hello, my name is Abhiraj Chatterjee. I am a final year B.Tech
-            Undergradstudent studying Computer Science and Engineering at KIIT
+            Undergrad student studying Computer Science and Engineering at KIIT
             University, Bhubaneswar. Honestly speaking, I am a very free
             spirited person who loves to enjoy life rather than always staying
             entangled in what I am #supposedtodo, but professionally I am a Full
