@@ -39,7 +39,7 @@ export default function Home() {
           <ul>
             <li>
               <h2>Languages &rarr; </h2>
-              <p style={{fontSize:"1.3rem"}}>• C++, Java, JavaScript, TypeScript, Dart, Python</p>
+              <p style={{fontSize:"1.3rem"}}>• C, C++, Java, JavaScript, TypeScript, Dart, Python</p>
             </li>
             <li>
               <h2>Web Development &rarr;</h2>
