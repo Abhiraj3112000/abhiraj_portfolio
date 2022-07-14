@@ -51,7 +51,7 @@ export default function Home() {
           <Link href="mailto:chatterjeeabhirajsocial@proton.me">
             <a target="_blank" className={styles.card}>
             <h2>E-mail &rarr;</h2>
-            <p>Let&apos;s connect through E-mail </p>
+            <p>Let&apos;s connect through E-mail. </p>
             </a>
           </Link>
 
