@@ -57,7 +57,7 @@ export default function Home() {
           <Link href="/contact">
             <a className={styles.card}>
               <h2>Connect &rarr;</h2>
-              <p>Tell me more about yourself and lets connect 🤝</p>
+              <p>Tell me more about yourself and let&apos;s connect 🤝</p>
             </a>
           </Link>
         </div>
