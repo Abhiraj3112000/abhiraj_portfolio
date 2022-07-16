@@ -28,7 +28,7 @@ export default function Home() {
           </Link>
         </h1>
 
-        <p className={styles.description}>Hi !! Abhiraj this side 👋</p>
+        <p className={styles.description}>Hi ! Abhiraj this side 👋</p>
 
         <div className={styles.grid}>
           <h2>Who and What I am &rarr;</h2>
